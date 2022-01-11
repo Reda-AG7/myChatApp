@@ -1,6 +1,6 @@
 # myFirstChatApp
-### using swift Storyboard
-### Result :
+### Real time chat App (Google Firebase)
+### App screenshots :
 ![sign in](https://user-images.githubusercontent.com/62580207/149013621-1142e6b5-5602-4135-82bc-d74bbadd3e4d.png)
 ![sign up](https://user-images.githubusercontent.com/62580207/149013630-cd55a69e-0077-45e8-9b8c-c5c7b36ef044.png)
 ![settings](https://user-images.githubusercontent.com/62580207/149013628-8f7afcec-56af-4700-814d-0506ddf445c5.png)
